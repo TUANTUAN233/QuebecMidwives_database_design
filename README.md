@@ -9,7 +9,7 @@ This project is a database system designed to manage midwife services efficientl
 
 The entity-relationship (ER) model provides a visual representation of the data structure and the relationships within the database. It is an essential part of the database design and is implemented through the provided SQL scripts.
 
-![Entity-Relationship Model](path_to_your_image.png)
+![Entity-Relationship Model](ER_model.png)
 
 ## Project Structure
 
@@ -25,8 +25,7 @@ The project is composed of a Java application and a set of SQL scripts managed b
 To set up the project, clone the repository and navigate to the project directory:
 
 ```sh
-git clone [repository URL]
-cd [project directory]
+git clone https://github.com/TUANTUAN233/QuebecMidwives_database_design.git
 ```
 
 Ensure that the shell scripts are executable:
@@ -78,6 +77,9 @@ Each option provides a simple and intuitive interface for midwives to efficientl
 ## Contributing
 
 We welcome contributions to this project. To contribute, please fork the repository, make your changes, and submit a pull request.
+
+## Referencing
+The model picture is provided by McGill CS course Comp421.
 
 ## License
 
